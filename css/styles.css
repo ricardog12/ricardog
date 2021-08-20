@@ -29,3 +29,6 @@ td {
 #lights {
   position: absolute;
 }
+html {
+  background: url(../images/pic.jpg);
+}
