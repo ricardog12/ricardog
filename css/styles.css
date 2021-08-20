@@ -16,7 +16,7 @@ header h1 {
   display: block;
 }
 header video {
-  width: 100vw;
+  /* width: 100%; */
   display: block;
   /* height: 100%; */
 }
