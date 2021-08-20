@@ -17,7 +17,7 @@ header h1 {
 }
 header video {
   width: 100vw;
-  /* display: block; */
+  display: block;
   /* height: 100%; */
 }
 nav {
