@@ -1,6 +1,25 @@
-d1{
-    height: 300px;
-    width: 200px;
-    color: blue;
-    background: grey;
+* {
+  background: lightskyblue;
+  box-sizing: border-box;
+}
+header h1 {
+  text-align: center;
+}
+header a {
+  text-decoration: none;
+  color: aqua;
+  /* box-sizing: border-box; */
+  background: grey;
+  padding: 0px 100px;
+}
+header a:hover {
+  color: yellow;
+}
+header h1 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#bhead {
+  text-align: center;
+  /* color: white; */
 }
